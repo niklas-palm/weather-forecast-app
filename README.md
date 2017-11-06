@@ -1,8 +1,8 @@
-#### Testing Redux with React. A Tinder web application.
+#### Testing Redux with React. A simple book list
 
 ```
-> git clone https://github.com/niklas-palm/tinder-web-app.git
-> cd tinder-web-app
+> git clone https://github.com/niklas-palm/redux-book-list.git
+> cd redux-book-list
 > npm install
 > npm start
 ```
